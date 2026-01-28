@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Entornos
+.env
+
+# Logs
+*.log
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# OS
+.DS_Store
